@@ -1,0 +1,3 @@
+D:\ds\homework\test\x64\Debug\test.exe
+D:\ds\homework\hw3\x64\Debug\test.exe
+D:\工图\ds\homework\hw3\x64\Debug\test.exe
